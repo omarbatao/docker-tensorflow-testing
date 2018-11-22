@@ -1,13 +1,18 @@
-#docker-tensorflow
+# docker-tensorflow
 
-Testing repo
+Installing docker-compose 
 
-####commands
+```
+
+sudo apt-get install python python-pip -y
+sudo pip install docker-compose
+
+```
+
+#### commands
 ```bash
-
  # start solution
-
- docker-compose up
+ docker-compose up 
 
 ```
 
